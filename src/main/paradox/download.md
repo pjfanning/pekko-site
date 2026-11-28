@@ -46,12 +46,8 @@ There is also a milestone release, providing a preview for the upcoming major ve
 
 ## Pekko Connectors Kafka
 
-* [apache-pekko-connectors-kafka-1.2.0-src-20260818.tgz](https://www.apache.org/dyn/closer.lua/pekko/CONNECTORS-KAFKA-1.2.0/apache-pekko-connectors-kafka-1.2.0-src-20260818.tgz) signature: ([asc](https://downloads.apache.org/pekko/CONNECTORS-KAFKA-1.2.0/apache-pekko-connectors-kafka-1.2.0-src-20260818.tgz.asc)) checksum: ([sha512](https://downloads.apache.org/pekko/CONNECTORS-KAFKA-1.2.0/apache-pekko-connectors-kafka-1.2.0-src-20260818.tgz.sha512))
+* [apache-pekko-connectors-kafka-2.0.0-src-20261125.tgz](https://www.apache.org/dyn/closer.lua/pekko/CONNECTORS-KAFKA-2.0.0/apache-pekko-connectors-kafka-2.0.0-src-20261125.tgz) signature: ([asc](https://downloads.apache.org/pekko/CONNECTORS-KAFKA-2.0.0/apache-pekko-connectors-kafka-2.0.0-src-20261125.tgz.asc)) checksum: ([sha512](https://downloads.apache.org/pekko/CONNECTORS-KAFKA-2.0.0/apache-pekko-connectors-kafka-2.0.0-src-20261125.tgz.sha512))
 * [Release Notes](https://pekko.apache.org/docs/pekko-connectors-kafka/current/release-notes/index.html)
-
-There is also a milestone release, providing a preview for the upcoming major version:
-
-* [apache-pekko-connectors-kafka-2.0.0-M1-src-20260421.tgz](https://www.apache.org/dyn/closer.lua/pekko/CONNECTORS-KAFKA-2.0.0-M1/apache-pekko-connectors-kafka-2.0.0-M1-src-20260421.tgz) signature: ([asc](https://downloads.apache.org/pekko/CONNECTORS-KAFKA-2.0.0-M1/apache-pekko-connectors-kafka-2.0.0-M1-src-20260421.tgz.asc)) checksum: ([sha512](https://downloads.apache.org/pekko/CONNECTORS-KAFKA-2.0.0-M1/apache-pekko-connectors-kafka-2.0.0-M1-src-20260421.tgz.sha512))
 
 ## Pekko Persistence Cassandra
 
@@ -65,12 +61,8 @@ There is also a milestone release, providing a preview for the upcoming major ve
 
 ## Pekko Persistence JDBC
 
-* [apache-pekko-persistence-jdbc-1.4.0-src-20261116.tgz](https://www.apache.org/dyn/closer.lua/pekko/PERSISTENCE-JDBC-1.4.0/apache-pekko-persistence-jdbc-1.4.0-src-20261116.tgz) signature: ([asc](https://downloads.apache.org/pekko/PERSISTENCE-JDBC-1.4.0/apache-pekko-persistence-jdbc-1.4.0-src-20261116.tgz.asc)) checksum: ([sha512](https://downloads.apache.org/pekko/PERSISTENCE-JDBC-1.4.0/apache-pekko-persistence-jdbc-1.4.0-src-20261116.tgz.sha512))
+* [apache-pekko-persistence-jdbc-2.0.0-src-20261122.tgz](https://www.apache.org/dyn/closer.lua/pekko/PERSISTENCE-JDBC-2.0.0/apache-pekko-persistence-jdbc-2.0.0-src-20261122.tgz) signature: ([asc](https://downloads.apache.org/pekko/PERSISTENCE-JDBC-2.0.0/apache-pekko-persistence-jdbc-2.0.0-src-20261122.tgz.asc)) checksum: ([sha512](https://downloads.apache.org/pekko/PERSISTENCE-JDBC-2.0.0/apache-pekko-persistence-jdbc-2.0.0-src-20261122.tgz.sha512))
 * [Release Notes](https://pekko.apache.org/docs/pekko-persistence-jdbc/current/release-notes/index.html)
-
-There is also a milestone release, providing a preview for the upcoming major version:
-
-* [apache-pekko-persistence-jdbc-2.0.0-M1-src-20260127.tgz](https://www.apache.org/dyn/closer.lua/pekko/PERSISTENCE-JDBC-2.0.0-M1/apache-pekko-persistence-jdbc-2.0.0-M1-src-20260127.tgz) signature: ([asc](https://downloads.apache.org/pekko/PERSISTENCE-JDBC-2.0.0-M1/apache-pekko-persistence-jdbc-2.0.0-M1-src-20260127.tgz.asc)) checksum: ([sha512](https://downloads.apache.org/pekko/PERSISTENCE-JDBC-2.0.0-M1/apache-pekko-persistence-jdbc-2.0.0-M1-src-20260127.tgz.sha512))
 
 ## Pekko Persistence R2DBC
 
